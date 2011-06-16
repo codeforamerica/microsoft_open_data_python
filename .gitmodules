@@ -1,0 +1,3 @@
+[submodule "open_gov/api"]
+	path = open_gov/api
+	url = git://github.com/codeforamerica/Python-API-Template.git
