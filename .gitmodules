@@ -1,0 +1,3 @@
+[submodule "open_data/api"]
+	path = open_data/api
+	url = git@github.com:codeforamerica/Python-API-Module.git
